@@ -31,16 +31,20 @@ print(Fore.RED + Style.BRIGHT, """
 	███████████▓▓█▓▓▓▓███▓╬╬╬╬╬╬╬╬╬▓████████ 
 	██████████████▓▓▓███▓▓╬╬╬╬╬╬╬╬██████████ 
 	███████████████▓▓▓██▓▓╬╬╬╬╬╬▓███████████
-            ================================
+            ==================================
              	Made by SADTRASH#1337
+                & Supergamer5465#9523
              https://github.com/sadtrxsh
-            ================================
+             https://github.com/Supergamer5465
+            ==================================
                           
 """)  
 print(Fore.GREEN + Style.BRIGHT, """YOUR CHANCES OF THIS WORKING IS 
+the amount of possible codes is 6.2050608e+19
 
 62 quintrillion 50 quadrillion 8 trillion 388 billion 552 million 823 thousand 
 487 possible realm codes
+
 THATS 3125 out of 32318025202371264 valid for under 6 million realm codes""")
 x=0
 def checkRealm(code):
