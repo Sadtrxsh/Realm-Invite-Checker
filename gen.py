@@ -37,7 +37,7 @@ print ('')
 
 fix = 1
 while fix <= amount:
-    code = ('').join(random.choices(string.ascii_letters + string.digits, k=10))
+    code = ('').join(random.choices(string.ascii_letters + string.digits, k=11))
     realm_url = "https://realms.gg/"
     f.write( code + '\n')
     realm_code = realm_url + code
